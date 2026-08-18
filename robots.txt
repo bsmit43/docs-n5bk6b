@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-dzn8ev.hartawin.online/sitemap.xml
